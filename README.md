@@ -1,2 +1,2 @@
 # FleakOS-theming
-arts for the FleakOS
+Arts for the FleakOS
